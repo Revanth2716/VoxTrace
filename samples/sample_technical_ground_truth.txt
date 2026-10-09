@@ -1,0 +1,1 @@
+Whisper is an automatic speech recognition model trained on thousands of hours of audio. VoxTrace runs it locally with zero cloud dependencies.
